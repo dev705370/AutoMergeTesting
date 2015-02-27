@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 1213asdassxfdsftgsdfxdgxchg
+=======
+<<<<<<< HEAD
+1213asdassxf
+=======
+1213asdassxfdsftgsdfxdg
+>>>>>>> 2326b5a... j
+>>>>>>> origin/master
