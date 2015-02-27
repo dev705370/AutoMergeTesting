@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 tasdfrgfhasdfds
 =======
 tasdfrgfhasdfds
 asfadfsdfsdfdfdsfsdgr35w345647
 >>>>>>> origin/Child1
+=======
+tasdfrgfhasdfds
+>>>>>>> 2a4fc98... 11
